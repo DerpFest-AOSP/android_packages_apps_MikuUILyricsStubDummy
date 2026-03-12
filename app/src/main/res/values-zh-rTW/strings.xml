@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tip">您需要下載獨立的 APK 才能使用 Miku UI 歌詞元件。</string>
+    <string name="download">下載</string>
+    <string name="tip_auto_start">安裝完成後，Miku UI 歌詞元件將會自動啟動。</string>
+</resources>
